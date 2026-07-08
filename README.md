@@ -3,13 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luana+Lorena;I'm+24+years+old;I'm+from+Palmas,+TO;I'm+computer+science+from+UFT;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luanatvrs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
 ### Main skills:
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -38,5 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Material UI](https://img.shields.io/badge/-Material--UI-0D1117?style=for-the-badge&logo=material-ui&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+ <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Luanatvrs&hide=HTML&locale=pt-br&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
