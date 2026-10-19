@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="257" viewBox="0 0 1200 257"><rect width="1200" height="257" fill="#191521"/><g transform="translate(16,10)">
+ <rect width="378" height="237" rx="19" fill="#3A2B62"/>
+ <text x="24" y="46" font-family="Arial,sans-serif" font-weight="700" font-size="13" letter-spacing="3" fill="#EDE5FF">ENGINEERING</text>
+ <text x="24" y="112" font-family="Georgia,serif" font-size="62" font-style="italic" opacity=".30" fill="#EDE5FF">01</text>
+ <text x="24" y="164" font-family="Arial,sans-serif" font-weight="700" font-size="27" fill="#EDE5FF">Reliable systems</text>
+ <text x="24" y="198" font-family="Arial,sans-serif" font-size="15" fill="#EDE5FF">APIs · Python · PHP</text>
+ <circle cx="321" cy="73" r="33" fill="none" stroke="#EDE5FF" stroke-width="2" opacity=".75"/>
+ <path d="M301 75h38m-19-19v38" stroke="#EDE5FF" stroke-width="2" opacity=".75"/>
+ </g><g transform="translate(411,10)">
+ <rect width="378" height="237" rx="19" fill="#59352F"/>
+ <text x="24" y="46" font-family="Arial,sans-serif" font-weight="700" font-size="13" letter-spacing="3" fill="#FFDFCC">EXPERIENCE</text>
+ <text x="24" y="112" font-family="Georgia,serif" font-size="62" font-style="italic" opacity=".30" fill="#FFDFCC">02</text>
+ <text x="24" y="164" font-family="Arial,sans-serif" font-weight="700" font-size="27" fill="#FFDFCC">Useful interfaces</text>
+ <text x="24" y="198" font-family="Arial,sans-serif" font-size="15" fill="#FFDFCC">React · TypeScript · Vue</text>
+ <circle cx="321" cy="73" r="33" fill="none" stroke="#FFDFCC" stroke-width="2" opacity=".75"/>
+ <path d="M301 75h38m-19-19v38" stroke="#FFDFCC" stroke-width="2" opacity=".75"/>
+ </g><g transform="translate(806,10)">
+ <rect width="378" height="237" rx="19" fill="#26483E"/>
+ <text x="24" y="46" font-family="Arial,sans-serif" font-weight="700" font-size="13" letter-spacing="3" fill="#CFF5DD">INTELLIGENCE</text>
+ <text x="24" y="112" font-family="Georgia,serif" font-size="62" font-style="italic" opacity=".30" fill="#CFF5DD">03</text>
+ <text x="24" y="164" font-family="Arial,sans-serif" font-weight="700" font-size="27" fill="#CFF5DD">Smarter workflows</text>
+ <text x="24" y="198" font-family="Arial,sans-serif" font-size="15" fill="#CFF5DD">LLMs · Automation · AI</text>
+ <circle cx="321" cy="73" r="33" fill="none" stroke="#CFF5DD" stroke-width="2" opacity=".75"/>
+ <path d="M301 75h38m-19-19v38" stroke="#CFF5DD" stroke-width="2" opacity=".75"/>
+ </g></svg>
